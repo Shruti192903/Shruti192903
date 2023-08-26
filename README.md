@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbdnG_m-7nHkcGJeIo2KjsEM_4i2WFY_G9w&usqp=CAU)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbdnG_m-7nHkcGJeIo2KjsEM_4i2WFY_G9w&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Shruti Arsode</h1>
 <h3 align="center">A passionate aspiring Engineering from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
