@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti192903&label=Profile%20views&color=0e75b6&style=flat" alt="shruti192903" /> </p>
 
-- 📫 How to reach me **shrutiarsode@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 Connect with me: **shrutiarsode@gmail.com**
 <p align="left">
 <a href="https://twitter.com/shru1929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shru1929" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shruti arsode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti arsode" height="30" width="40" /></a>
