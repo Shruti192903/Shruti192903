@@ -1,5 +1,4 @@
-
-![MasterHead](/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
+![logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif&tbnid=gjV-fY87U3IhAM&vet=12ahUKEwiy7cXej4KBAxVHimMGHemYBnMQMygTegUIARCMAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=1920&h=1080&q=animated%20coding%20gif%20for%20github&hl=en&ved=2ahUKEwiy7cXej4KBAxVHimMGHemYBnMQMygTegUIARCMAQ)
 <h1 align="center">Hi 👋, I'm Shruti Arsode</h1>
 <h3 align="center">A passionate aspiring Engineering from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
