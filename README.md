@@ -1,7 +1,3 @@
-![Header](./bnr.ijpeg)
-
-#(https://shrutiarsode192903.io)
-
 
 <h1 align="center">Hi, I'm Shruti Arsode</h1>
 <h3 align="center">A passionate aspiring Engineer from India</h3> 
